@@ -1,0 +1,35 @@
+div{
+    border: 5px solid purple;
+    background-color: rgb(215, 249, 250);
+    padding: 5px;
+    margin: 15px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.XMNwGkNchRn3OcM3XJylEAHaE7?w=241&h=180&c=7&r=0&o=5&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+span{
+    cursor: pointer;
+
+}
+
+.image{
+    width: 100px;
+    margin: 15px;
+
+
+}
+
